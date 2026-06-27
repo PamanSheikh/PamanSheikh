@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently in my Final year of BTech in CSE with specialization in Data Science. <br>I like Data analysis, Data Science and Machine Learning along with a good understanding of programming concepts.
+Hi, I'm a final-year B.Tech CSE (Data Science) student!I bridge the gap between raw data and strategic decisions. My expertise lies in Python programming and core software concepts, with a deep interest in Data Analysis, Data Science, and Machine Learning. I enjoy clean code, well-structured data pipelines, and building predictive models that make an impact.
 
 
 # 💻 Tech Stack:
